@@ -1,3 +1,3 @@
 # SanzuAI (山津AI) Project
 
-Please visit [http://sanzuai.github.io/](http://sanzuai.github.io/) to know more about our project.
+Please visit [https://sanzuai.github.io/](https://sanzuai.github.io/) to know more about our project.
